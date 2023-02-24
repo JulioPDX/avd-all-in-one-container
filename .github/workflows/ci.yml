@@ -37,4 +37,4 @@ jobs:
         with:
           push: true
           tags: juliopdx/avd-dev:latest
-          platforms: linux/arm64/v8
+          platforms: linux/arm64/v8,linux/amd64
